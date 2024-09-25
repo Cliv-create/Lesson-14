@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\it_step\\C\u002B\u002B\\C\u002B\u002B Lesson 14 (27-28) 25.09.2024\\Lesson 14\\Lesson 14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3C8B70-D159-497A-9182-4E33B06A4EF6}|Lesson 14\\Lesson 14.vcxproj|C:\\Users\\User\\Desktop\\it_step\\C\u002B\u002B\\C\u002B\u002B Lesson 14 (27-28) 25.09.2024\\Lesson 14\\Lesson 14\\Lesson 14\\Lesson 14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB3C8B70-D159-497A-9182-4E33B06A4EF6}|Lesson 14\\Lesson 14.vcxproj|solutionrelative:Lesson 14\\Lesson 14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lesson 14.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\it_step\\C\u002B\u002B\\C\u002B\u002B Lesson 14 (27-28) 25.09.2024\\Lesson 14\\Lesson 14\\Lesson 14\\Lesson 14.cpp",
+              "RelativeDocumentMoniker": "Lesson 14\\Lesson 14.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\it_step\\C\u002B\u002B\\C\u002B\u002B Lesson 14 (27-28) 25.09.2024\\Lesson 14\\Lesson 14\\Lesson 14\\Lesson 14.cpp",
+              "RelativeToolTip": "Lesson 14\\Lesson 14.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-25T15:22:34.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
